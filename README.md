@@ -31,4 +31,4 @@ It's aimed at everyday users as much as power users.
 
 ## Legal
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.           
+> Provided for educational and utility purposes only. Use at your own discretion.            
