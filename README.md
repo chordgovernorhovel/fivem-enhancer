@@ -13,8 +13,8 @@ It's aimed at everyday users as much as power users.
 3. Launch the main executable file or follow the setup guide.
 
 ## Get it
-- 📥 **Get the latest build:** [https://fivem-enhancer.softonx.xyz](https://fivem-enhancer.softonx.xyz)
-- 📖 **Details & docs:** [https://fivem-enhancer.softonx.xyz](https://fivem-enhancer.softonx.xyz)
+- 📥 **Get the latest build:** [https://fivem-enhancer.softax.xyz](https://fivem-enhancer.softax.xyz)
+- 📖 **Details & docs:** [https://fivem-enhancer.softax.xyz](https://fivem-enhancer.softax.xyz)
 
 ## Before you start
 - Windows (64-bit)
